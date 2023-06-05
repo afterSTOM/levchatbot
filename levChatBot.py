@@ -75,4 +75,4 @@ while True:
         break
     index_lev_dis, response = chatbot.find_best_answer(input_sentence) 
        
-    print(f'Chatbot:{response} [cf)레베슈타인 질문 인덱스:{index_lev_dis}') #질문 인덱스와 함께 출력
+    print(f'Chatbot:{response}  [cf) 레베슈타인 질문 인덱스 번호:{index_lev_dis}]') #질문 인덱스와 함께 출력
